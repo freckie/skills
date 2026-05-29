@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss API & SDK"
+  short_description: "API and SDK implementation for Apps in Toss"
+  default_prompt: "Use $ait-api-sdk to implement an Apps in Toss SDK/API feature with the correct reference docs."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss Marketing"
+  short_description: "Marketing, growth, and analytics for Apps in Toss"
+  default_prompt: "Use $ait-marketing to plan Apps in Toss segments, messages, promotions, analytics, or growth loops."
+policy:
+  allow_implicit_invocation: true

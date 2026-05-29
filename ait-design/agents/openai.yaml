@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss Design"
+  short_description: "Design guidance for Apps in Toss miniapps"
+  default_prompt: "Use $ait-design to review this Apps in Toss miniapp UI against branding, UX, copy, graphics, and resolution guidelines."
+policy:
+  allow_implicit_invocation: true

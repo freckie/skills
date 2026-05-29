@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss Release"
+  short_description: "Launch review and operations for Apps in Toss"
+  default_prompt: "Use $ait-release to prepare this Apps in Toss miniapp for review, release, rollback, or shutdown."
+policy:
+  allow_implicit_invocation: true

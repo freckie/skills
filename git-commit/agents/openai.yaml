@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit"
+  short_description: "Prepare safe, consistent git commits"
+  default_prompt: "Use $git-commit to inspect staged changes and create a commit message."

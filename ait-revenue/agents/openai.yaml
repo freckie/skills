@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss Revenue"
+  short_description: "Monetization and settlement for Apps in Toss"
+  default_prompt: "Use $ait-revenue to plan Apps in Toss ads, payments, TossPay, refunds, or settlement."
+policy:
+  allow_implicit_invocation: true

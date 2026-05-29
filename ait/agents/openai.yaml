@@ -1,0 +1,6 @@
+interface:
+  display_name: "Apps in Toss"
+  short_description: "Routes Apps in Toss work to the right skill"
+  default_prompt: "Use $ait to route this Apps in Toss request to the right specialized ait skill."
+policy:
+  allow_implicit_invocation: true
