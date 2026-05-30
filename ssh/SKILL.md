@@ -1,6 +1,6 @@
 ---
 name: ssh
-decription: SSH Guidelines
+description: SSH Guidelines
 user-invocable: false
 ---
 
