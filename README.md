@@ -24,6 +24,7 @@ Personally created and maintained here.
 | `obsidian-conventions` | Personal Obsidian vault conventions |
 | `ssh` | SSH guidelines |
 | `sync-my-skills` | Sync this repo's skills into the local skills path |
+| `troubleshoot-personal` | Troubleshoot issues with knowledges in Obsidian |
 
 ### Vendored from [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
